@@ -1,2 +1,2 @@
 # portugol-2
-repositório com programas de lógica de programação
+Repositório com programas de Lógica de Programação
